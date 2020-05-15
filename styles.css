@@ -179,6 +179,10 @@ footer .social {
 	form {
 		padding: 1.43rem 5rem;
 	}	
+
+	.full-width {
+		height: 2.5rem;
+	}
 }
 
 @media(max-width: 450px){
